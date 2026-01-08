@@ -1,0 +1,78 @@
+model = "gpt-5.2-codex"
+model_reasoning_effort = "medium"
+[projects."/Users/gabrielramos"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/.codex"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/Documents/Estudo/Concursos/CD/Analista"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/sofia_gemini"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/Documents/GitHub/sofia-mvp"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/Library/Mobile Documents/com~apple~CloudDocs/Estudo/Estrategia"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/EstrategiaDownloader"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/Downloads/skills"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/sherlock-discord-bot"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/Documents/GitHub/sherlockramosblog"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/Library/Mobile Documents/com~apple~CloudDocs/ASOF/Rede Compartilhada"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/Downloads/sherlockramosblog"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/HabitManagerBot"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/asof_gemini"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/class-fix"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/telegram-manager-lab"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/TeleScam"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/Downloads/EstrategiaDownloader"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/bots/ponto-salinha"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/DoclingSpace"]
+trust_level = "trusted"
+
+[projects."/Users/gabrielramos/tdl-mcp"]
+trust_level = "trusted"
+
+[mcp_servers.chrome-devtools]
+command = "npx"
+args = ["chrome-devtools-mcp@latest"]
+
+[mcp_servers.context7-mcp]
+url = "https://server.smithery.ai/@upstash/context7-mcp/mcp"
+
+[features]
+unified_exec = true
+shell_snapshot = true
+
+[notice]
+hide_full_access_warning = true

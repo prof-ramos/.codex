@@ -1,0 +1,5 @@
+{
+  "name": "postgres",
+  "description": "Execute read-only SQL queries against multiple PostgreSQL databases with intelligent database selection",
+  "version": "1.0.0"
+}

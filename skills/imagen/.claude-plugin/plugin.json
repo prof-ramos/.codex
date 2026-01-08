@@ -1,0 +1,5 @@
+{
+  "name": "imagen",
+  "version": "1.0.0",
+  "description": "Generate images using Google Gemini's AI image generation model. Supports multiple sizes and cross-platform usage (Windows, macOS, Linux)."
+}
