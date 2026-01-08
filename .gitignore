@@ -1,0 +1,6 @@
+auth.json
+history.jsonl
+sessions/
+shell_snapshots/
+log/
+.DS_Store
